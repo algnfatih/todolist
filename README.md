@@ -9,7 +9,7 @@ sql bağlantı ayarları functions -> config.php içerisinden yapabilirsiniz.
 
 --
 
-eklenmesi gereken kod;
+yeni versiyonlarda gelmesi beklenen özellikler;
 
 todo eklerken boş bırakılsa dahi ekleme yapıyor.
 
@@ -18,3 +18,5 @@ login ekranı hata verdirme.
 silme ve ekleme başarısız olursa hata verdirme. 
 
 eklerken html tag silme.
+
+sayfalama eklenecek. + arama bölümü.
